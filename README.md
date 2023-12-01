@@ -1,1 +1,1 @@
-# Assitive-Application-for-Alzheimer-s-Patients
+# Assitive-Application-for-Alzheimer-Patients
